@@ -1,0 +1,906 @@
+C:\Programme(Zeugs)\Anaconda\python.exe "C:/Users/Herakles II/Documents/Studium/post university/puzzle/Puzzle/test.py"
+Loading data from: data\\DSC01132_15x30\
+Found additional corner information.
+Loaded piece p_0_0
+Loaded piece p_0_1
+Loaded piece p_0_10
+Loaded piece p_0_11
+Loaded piece p_0_12
+Loaded piece p_0_13
+Loaded piece p_0_14
+Loaded piece p_0_15
+Loaded piece p_0_16
+Loaded piece p_0_17
+Loaded piece p_0_18
+Loaded piece p_0_19
+Loaded piece p_0_2
+Loaded piece p_0_20
+Loaded piece p_0_21
+Loaded piece p_0_22
+Loaded piece p_0_23
+Loaded piece p_0_24
+Loaded piece p_0_25
+Loaded piece p_0_26
+Loaded piece p_0_27
+Loaded piece p_0_28
+Loaded piece p_0_29
+Loaded piece p_0_3
+Loaded piece p_0_4
+Loaded piece p_0_5
+Loaded piece p_0_6
+Loaded piece p_0_7
+Loaded piece p_0_8
+Loaded piece p_0_9
+Loaded piece p_10_0
+Loaded piece p_10_1
+Loaded piece p_10_10
+Loaded piece p_10_11
+Loaded piece p_10_12
+Loaded piece p_10_13
+Loaded piece p_10_14
+Loaded piece p_10_15
+Loaded piece p_10_16
+Loaded piece p_10_17
+Loaded piece p_10_18
+Loaded piece p_10_19
+Loaded piece p_10_2
+Loaded piece p_10_20
+Loaded piece p_10_21
+Loaded piece p_10_22
+Loaded piece p_10_23
+Loaded piece p_10_24
+Loaded piece p_10_25
+Loaded piece p_10_26
+Loaded piece p_10_27
+Loaded piece p_10_28
+Loaded piece p_10_29
+Loaded piece p_10_3
+Loaded piece p_10_4
+Loaded piece p_10_5
+Loaded piece p_10_6
+Loaded piece p_10_7
+Loaded piece p_10_8
+Loaded piece p_10_9
+Loaded piece p_11_0
+Loaded piece p_11_1
+Loaded piece p_11_10
+Loaded piece p_11_11
+Loaded piece p_11_12
+Loaded piece p_11_13
+Loaded piece p_11_14
+Loaded piece p_11_15
+Loaded piece p_11_16
+Loaded piece p_11_17
+Loaded piece p_11_18
+Loaded piece p_11_19
+Loaded piece p_11_2
+Loaded piece p_11_20
+Loaded piece p_11_21
+Loaded piece p_11_22
+Loaded piece p_11_23
+Loaded piece p_11_24
+Loaded piece p_11_25
+Loaded piece p_11_26
+Loaded piece p_11_27
+Loaded piece p_11_28
+Loaded piece p_11_29
+Loaded piece p_11_3
+Loaded piece p_11_4
+Loaded piece p_11_5
+Loaded piece p_11_6
+Loaded piece p_11_7
+Loaded piece p_11_8
+Loaded piece p_11_9
+Loaded piece p_12_0
+Loaded piece p_12_1
+Loaded piece p_12_10
+Loaded piece p_12_11
+Loaded piece p_12_12
+Loaded piece p_12_13
+Loaded piece p_12_14
+Loaded piece p_12_15
+Loaded piece p_12_16
+Loaded piece p_12_17
+Loaded piece p_12_18
+Loaded piece p_12_19
+Loaded piece p_12_2
+Loaded piece p_12_20
+Loaded piece p_12_21
+Loaded piece p_12_22
+Loaded piece p_12_23
+Loaded piece p_12_24
+Loaded piece p_12_25
+Loaded piece p_12_26
+Loaded piece p_12_27
+Loaded piece p_12_28
+Loaded piece p_12_29
+Loaded piece p_12_3
+Loaded piece p_12_4
+Loaded piece p_12_5
+Loaded piece p_12_6
+Loaded piece p_12_7
+Loaded piece p_12_8
+Loaded piece p_12_9
+Loaded piece p_13_0
+Loaded piece p_13_1
+Loaded piece p_13_10
+Loaded piece p_13_11
+Loaded piece p_13_12
+Loaded piece p_13_13
+Loaded piece p_13_14
+Loaded piece p_13_15
+Loaded piece p_13_16
+Loaded piece p_13_17
+Loaded piece p_13_18
+Loaded piece p_13_19
+Loaded piece p_13_2
+Loaded piece p_13_20
+Loaded piece p_13_21
+Loaded piece p_13_22
+Loaded piece p_13_23
+Loaded piece p_13_24
+Loaded piece p_13_25
+Loaded piece p_13_26
+Loaded piece p_13_27
+Loaded piece p_13_28
+Loaded piece p_13_29
+Loaded piece p_13_3
+Loaded piece p_13_4
+Loaded piece p_13_5
+Loaded piece p_13_6
+Loaded piece p_13_7
+Loaded piece p_13_8
+Loaded piece p_13_9
+Loaded piece p_14_0
+Loaded piece p_14_1
+Loaded piece p_14_10
+Loaded piece p_14_11
+Loaded piece p_14_12
+Loaded piece p_14_13
+Loaded piece p_14_14
+Loaded piece p_14_15
+Loaded piece p_14_16
+Loaded piece p_14_17
+Loaded piece p_14_18
+Loaded piece p_14_19
+Loaded piece p_14_2
+Loaded piece p_14_20
+Loaded piece p_14_21
+Loaded piece p_14_22
+Loaded piece p_14_23
+Loaded piece p_14_24
+Loaded piece p_14_25
+Loaded piece p_14_26
+Loaded piece p_14_27
+Loaded piece p_14_28
+Loaded piece p_14_29
+Loaded piece p_14_3
+Loaded piece p_14_4
+Loaded piece p_14_5
+Loaded piece p_14_6
+Loaded piece p_14_7
+Loaded piece p_14_8
+Loaded piece p_14_9
+Loaded piece p_1_0
+Loaded piece p_1_1
+Loaded piece p_1_10
+Loaded piece p_1_11
+Loaded piece p_1_12
+Loaded piece p_1_13
+Loaded piece p_1_14
+Loaded piece p_1_15
+Loaded piece p_1_16
+Loaded piece p_1_17
+Loaded piece p_1_18
+Loaded piece p_1_19
+Loaded piece p_1_2
+Loaded piece p_1_20
+Loaded piece p_1_21
+Loaded piece p_1_22
+Loaded piece p_1_23
+Loaded piece p_1_24
+Loaded piece p_1_25
+Loaded piece p_1_26
+Loaded piece p_1_27
+Loaded piece p_1_28
+Loaded piece p_1_29
+Loaded piece p_1_3
+Loaded piece p_1_4
+Loaded piece p_1_5
+Loaded piece p_1_6
+Loaded piece p_1_7
+Loaded piece p_1_8
+Loaded piece p_1_9
+Loaded piece p_2_0
+Loaded piece p_2_1
+Loaded piece p_2_10
+Loaded piece p_2_11
+Loaded piece p_2_12
+Loaded piece p_2_13
+Loaded piece p_2_14
+Loaded piece p_2_15
+Loaded piece p_2_16
+Loaded piece p_2_17
+Loaded piece p_2_18
+Loaded piece p_2_19
+Loaded piece p_2_2
+Loaded piece p_2_20
+Loaded piece p_2_21
+Loaded piece p_2_22
+Loaded piece p_2_23
+Loaded piece p_2_24
+Loaded piece p_2_25
+Loaded piece p_2_26
+Loaded piece p_2_27
+Loaded piece p_2_28
+Loaded piece p_2_29
+Loaded piece p_2_3
+Loaded piece p_2_4
+Loaded piece p_2_5
+Loaded piece p_2_6
+Loaded piece p_2_7
+Loaded piece p_2_8
+Loaded piece p_2_9
+Loaded piece p_3_0
+Loaded piece p_3_1
+Loaded piece p_3_10
+Loaded piece p_3_11
+Loaded piece p_3_12
+Loaded piece p_3_13
+Loaded piece p_3_14
+Loaded piece p_3_15
+Loaded piece p_3_16
+Loaded piece p_3_17
+Loaded piece p_3_18
+Loaded piece p_3_19
+Loaded piece p_3_2
+Loaded piece p_3_20
+Loaded piece p_3_21
+Loaded piece p_3_22
+Loaded piece p_3_23
+Loaded piece p_3_24
+Loaded piece p_3_25
+Loaded piece p_3_26
+Loaded piece p_3_27
+Loaded piece p_3_28
+Loaded piece p_3_29
+Loaded piece p_3_3
+Loaded piece p_3_4
+Loaded piece p_3_5
+Loaded piece p_3_6
+Loaded piece p_3_7
+Loaded piece p_3_8
+Loaded piece p_3_9
+Loaded piece p_4_0
+Loaded piece p_4_1
+Loaded piece p_4_10
+Loaded piece p_4_11
+Loaded piece p_4_12
+Loaded piece p_4_13
+Loaded piece p_4_14
+Loaded piece p_4_15
+Loaded piece p_4_16
+Loaded piece p_4_17
+Loaded piece p_4_18
+Loaded piece p_4_19
+Loaded piece p_4_2
+Loaded piece p_4_20
+Loaded piece p_4_21
+Loaded piece p_4_22
+Loaded piece p_4_23
+Loaded piece p_4_24
+Loaded piece p_4_25
+Loaded piece p_4_26
+Loaded piece p_4_27
+Loaded piece p_4_28
+Loaded piece p_4_29
+Loaded piece p_4_3
+Loaded piece p_4_4
+Loaded piece p_4_5
+Loaded piece p_4_6
+Loaded piece p_4_7
+Loaded piece p_4_8
+Loaded piece p_4_9
+Loaded piece p_5_0
+Loaded piece p_5_1
+Loaded piece p_5_10
+Loaded piece p_5_11
+Loaded piece p_5_12
+Loaded piece p_5_13
+Loaded piece p_5_14
+Loaded piece p_5_15
+Loaded piece p_5_16
+Loaded piece p_5_17
+Loaded piece p_5_18
+Loaded piece p_5_19
+Loaded piece p_5_2
+Loaded piece p_5_20
+Loaded piece p_5_21
+Loaded piece p_5_22
+Loaded piece p_5_23
+Loaded piece p_5_24
+Loaded piece p_5_25
+Loaded piece p_5_26
+Loaded piece p_5_27
+Loaded piece p_5_28
+Loaded piece p_5_29
+Loaded piece p_5_3
+Loaded piece p_5_4
+Loaded piece p_5_5
+Loaded piece p_5_6
+Loaded piece p_5_7
+Loaded piece p_5_8
+Loaded piece p_5_9
+Loaded piece p_6_0
+Loaded piece p_6_1
+Loaded piece p_6_10
+Loaded piece p_6_11
+Loaded piece p_6_12
+Loaded piece p_6_13
+Loaded piece p_6_14
+Loaded piece p_6_15
+Loaded piece p_6_16
+Loaded piece p_6_17
+Loaded piece p_6_18
+Loaded piece p_6_19
+Loaded piece p_6_2
+Loaded piece p_6_20
+Loaded piece p_6_21
+Loaded piece p_6_22
+Loaded piece p_6_23
+Loaded piece p_6_24
+Loaded piece p_6_25
+Loaded piece p_6_26
+Loaded piece p_6_27
+Loaded piece p_6_28
+Loaded piece p_6_29
+Loaded piece p_6_3
+Loaded piece p_6_4
+Loaded piece p_6_5
+Loaded piece p_6_6
+Loaded piece p_6_7
+Loaded piece p_6_8
+Loaded piece p_6_9
+Loaded piece p_7_0
+Loaded piece p_7_1
+Loaded piece p_7_10
+Loaded piece p_7_11
+Loaded piece p_7_12
+Loaded piece p_7_13
+Loaded piece p_7_14
+Loaded piece p_7_15
+Loaded piece p_7_16
+Loaded piece p_7_17
+Loaded piece p_7_18
+Loaded piece p_7_19
+Loaded piece p_7_2
+Loaded piece p_7_20
+Loaded piece p_7_21
+Loaded piece p_7_22
+Loaded piece p_7_23
+Loaded piece p_7_24
+Loaded piece p_7_25
+Loaded piece p_7_26
+Loaded piece p_7_27
+Loaded piece p_7_28
+Loaded piece p_7_29
+Loaded piece p_7_3
+Loaded piece p_7_4
+Loaded piece p_7_5
+Loaded piece p_7_6
+Loaded piece p_7_7
+Loaded piece p_7_8
+Loaded piece p_7_9
+Loaded piece p_8_0
+Loaded piece p_8_1
+Loaded piece p_8_10
+Loaded piece p_8_11
+Loaded piece p_8_12
+Loaded piece p_8_13
+Loaded piece p_8_14
+Loaded piece p_8_15
+Loaded piece p_8_16
+Loaded piece p_8_17
+Loaded piece p_8_18
+Loaded piece p_8_19
+Loaded piece p_8_2
+Loaded piece p_8_20
+Loaded piece p_8_21
+Loaded piece p_8_22
+Loaded piece p_8_23
+Loaded piece p_8_24
+Loaded piece p_8_25
+Loaded piece p_8_26
+Loaded piece p_8_27
+Loaded piece p_8_28
+Loaded piece p_8_29
+Loaded piece p_8_3
+Loaded piece p_8_4
+Loaded piece p_8_5
+Loaded piece p_8_6
+Loaded piece p_8_7
+Loaded piece p_8_8
+Loaded piece p_8_9
+Loaded piece p_9_0
+Loaded piece p_9_1
+Loaded piece p_9_10
+Loaded piece p_9_11
+Loaded piece p_9_12
+Loaded piece p_9_13
+Loaded piece p_9_14
+Loaded piece p_9_15
+Loaded piece p_9_16
+Loaded piece p_9_17
+Loaded piece p_9_18
+Loaded piece p_9_19
+Loaded piece p_9_2
+Loaded piece p_9_20
+Loaded piece p_9_21
+Loaded piece p_9_22
+Loaded piece p_9_23
+Loaded piece p_9_24
+Loaded piece p_9_25
+Loaded piece p_9_26
+Loaded piece p_9_27
+Loaded piece p_9_28
+Loaded piece p_9_29
+Loaded piece p_9_3
+Loaded piece p_9_4
+Loaded piece p_9_5
+Loaded piece p_9_6
+Loaded piece p_9_7
+Loaded piece p_9_8
+Loaded piece p_9_9
+Puzzle is of size: [ 15.  30.]
+Try to fill border!
+Try new corner...p_0_0
+Filled field: pos=(0, 1), id=p_0_1, orient=0, fit=0.995668864015, mean_fit=0.989776283479
+Filled field: pos=(1, 0), id=p_1_0, orient=0, fit=0.993550370811, mean_fit=0.991878008512
+Filled field: pos=(2, 0), id=p_2_0, orient=0, fit=0.988716434202, mean_fit=0.991492884615
+Filled field: pos=(0, 2), id=p_0_2, orient=0, fit=0.994177043398, mean_fit=0.991205492781
+Filled field: pos=(3, 0), id=p_3_0, orient=0, fit=0.989317408361, mean_fit=0.991427143091
+Filled field: pos=(0, 3), id=p_0_3, orient=0, fit=0.99002605305, mean_fit=0.991874479061
+Filled field: pos=(4, 0), id=p_4_0, orient=0, fit=0.989137247779, mean_fit=0.991262971931
+Filled field: pos=(0, 4), id=p_0_4, orient=0, fit=0.987820571783, mean_fit=0.990252533778
+Filled field: pos=(0, 5), id=p_0_5, orient=0, fit=0.994968330309, mean_fit=0.993864757162
+Filled field: pos=(5, 0), id=p_5_0, orient=0, fit=0.98725555281, mean_fit=0.993033424426
+Filled field: pos=(0, 6), id=p_0_6, orient=0, fit=0.996907690191, mean_fit=0.994233312447
+Filled field: pos=(6, 0), id=p_6_0, orient=0, fit=0.986836565764, mean_fit=0.993481042024
+Filled field: pos=(7, 0), id=p_7_0, orient=0, fit=0.985807699363, mean_fit=0.993656583643
+Filled field: pos=(0, 7), id=p_0_7, orient=0, fit=0.997350531056, mean_fit=0.994271803703
+Filled field: pos=(8, 0), id=p_8_0, orient=0, fit=0.99595331295, mean_fit=0.99408197037
+Filled field: pos=(0, 8), id=p_0_8, orient=0, fit=0.995903812753, mean_fit=0.994510061938
+Filled field: pos=(0, 9), id=p_0_9, orient=0, fit=0.994917020641, mean_fit=0.9944981837
+Filled field: pos=(9, 0), id=p_9_0, orient=0, fit=0.995413739708, mean_fit=0.994075063915
+Filled field: pos=(10, 0), id=p_10_0, orient=0, fit=0.992424001711, mean_fit=0.994111990409
+Filled field: pos=(0, 10), id=p_0_10, orient=0, fit=0.990157988346, mean_fit=0.994506733867
+Filled field: pos=(11, 0), id=p_11_0, orient=0, fit=0.996451964032, mean_fit=0.993737021104
+Filled field: pos=(0, 11), id=p_0_11, orient=0, fit=0.994890546841, mean_fit=0.994563188091
+Filled field: pos=(12, 0), id=p_12_0, orient=0, fit=0.995259869528, mean_fit=0.99378133985
+Filled field: pos=(0, 12), id=p_0_12, orient=0, fit=0.995598810775, mean_fit=0.994571614067
+Filled field: pos=(0, 13), id=p_0_13, orient=0, fit=0.993850901055, mean_fit=0.994550809036
+Filled field: pos=(13, 0), id=p_13_0, orient=0, fit=0.987799680724, mean_fit=0.993317267876
+Filled field: pos=(0, 14), id=p_0_14, orient=0, fit=0.996291679311, mean_fit=0.99457985116
+Filled field: pos=(14, 0), id=p_14_0, orient=0, fit=0.993155481449, mean_fit=0.992929181251
+Filled field: pos=(14, 1), id=p_14_1, orient=0, fit=0.994436729684, mean_fit=0.993842640456
+Filled field: pos=(0, 15), id=p_0_15, orient=0, fit=0.992722876738, mean_fit=0.994537363177
+Filled field: pos=(14, 2), id=p_14_2, orient=0, fit=0.99376974824, mean_fit=0.993425428695
+Filled field: pos=(0, 16), id=p_0_16, orient=0, fit=0.990829283426, mean_fit=0.994514757886
+Filled field: pos=(0, 17), id=p_0_17, orient=0, fit=0.988577342004, mean_fit=0.994487819082
+Filled field: pos=(14, 3), id=p_14_3, orient=0, fit=0.993658957112, mean_fit=0.994362245961
+Filled field: pos=(14, 4), id=p_14_4, orient=0, fit=0.992322462537, mean_fit=0.993685193285
+Filled field: pos=(0, 18), id=p_0_18, orient=0, fit=0.990015544163, mean_fit=0.994505030534
+Filled field: pos=(0, 19), id=p_0_19, orient=0, fit=0.985810746658, mean_fit=0.994454640613
+Filled field: pos=(14, 5), id=p_14_5, orient=0, fit=0.989313529412, mean_fit=0.995261657996
+Filled field: pos=(14, 6), id=p_14_6, orient=0, fit=0.99461379867, mean_fit=0.995323496007
+Filled field: pos=(0, 20), id=p_0_20, orient=0, fit=0.990317318469, mean_fit=0.994508638833
+Filled field: pos=(14, 7), id=p_14_7, orient=0, fit=0.992741999001, mean_fit=0.995301695083
+Filled field: pos=(0, 21), id=p_0_21, orient=0, fit=0.993101687159, mean_fit=0.994541880216
+Filled field: pos=(0, 22), id=p_0_22, orient=0, fit=0.992311298771, mean_fit=0.994532453478
+Filled field: pos=(14, 8), id=p_14_8, orient=0, fit=0.990087097338, mean_fit=0.995270703558
+Filled field: pos=(14, 9), id=p_14_9, orient=0, fit=0.9930590876, mean_fit=0.995305391083
+Filled field: pos=(0, 23), id=p_0_23, orient=0, fit=0.984096086372, mean_fit=0.994434031292
+Filled field: pos=(14, 10), id=p_14_10, orient=0, fit=0.994517237011, mean_fit=0.995322372342
+Filled field: pos=(0, 24), id=p_0_24, orient=0, fit=0.991606604766, mean_fit=0.994524042534
+Filled field: pos=(0, 25), id=p_0_25, orient=0, fit=0.986163368743, mean_fit=0.994458874556
+Filled field: pos=(14, 11), id=p_14_11, orient=0, fit=0.994341649192, mean_fit=0.995320328792
+Filled field: pos=(14, 12), id=p_14_12, orient=0, fit=0.991554133424, mean_fit=0.995287838883
+Filled field: pos=(0, 26), id=p_0_26, orient=0, fit=0.993490240726, mean_fit=0.99316901489
+Filled field: pos=(0, 27), id=p_0_27, orient=0, fit=0.984844499447, mean_fit=0.994243831684
+Filled field: pos=(14, 13), id=p_14_13, orient=0, fit=0.993324915912, mean_fit=0.995308488692
+Filled field: pos=(14, 14), id=p_14_14, orient=0, fit=0.995132215007, mean_fit=0.995329526852
+Filled field: pos=(0, 28), id=p_0_28, orient=0, fit=0.991369193325, mean_fit=0.992772542792
+Filled field: pos=(14, 15), id=p_14_15, orient=0, fit=0.99491768577, mean_fit=0.995327031566
+Filled field: pos=(0, 29), id=p_0_29, orient=0, fit=0.992385516258, mean_fit=0.993749965988
+Filled field: pos=(1, 29), id=p_1_29, orient=0, fit=0.989221097436, mean_fit=0.993745547923
+Filled field: pos=(14, 16), id=p_14_16, orient=0, fit=0.993272854133, mean_fit=0.995307882098
+Filled field: pos=(14, 17), id=p_14_17, orient=0, fit=0.990684470741, mean_fit=0.995277684046
+Filled field: pos=(2, 29), id=p_2_29, orient=0, fit=0.989764870719, mean_fit=0.993802056574
+Filled field: pos=(14, 18), id=p_14_18, orient=0, fit=0.991421035685, mean_fit=0.995286285304
+Filled field: pos=(3, 29), id=p_3_29, orient=0, fit=0.994182172723, mean_fit=0.993814757418
+Filled field: pos=(14, 19), id=p_14_19, orient=0, fit=0.995864559421, mean_fit=0.995338041077
+Filled field: pos=(4, 29), id=p_4_29, orient=0, fit=0.987794150547, mean_fit=0.994086630604
+Filled field: pos=(14, 20), id=p_14_20, orient=0, fit=0.992510544376, mean_fit=0.9952989965
+Filled field: pos=(5, 29), id=p_5_29, orient=0, fit=0.988746031032, mean_fit=0.994770665088
+Filled field: pos=(6, 29), id=p_6_29, orient=0, fit=0.991787508203, mean_fit=0.994809340684
+Filled field: pos=(14, 21), id=p_14_21, orient=0, fit=0.996127647059, mean_fit=0.995341098219
+Filled field: pos=(7, 29), id=p_7_29, orient=0, fit=0.996720652512, mean_fit=0.994871822513
+Filled field: pos=(14, 22), id=p_14_22, orient=0, fit=0.989247230904, mean_fit=0.995260882422
+Filled field: pos=(8, 29), id=p_8_29, orient=0, fit=0.995065163724, mean_fit=0.99485088866
+Filled field: pos=(14, 23), id=p_14_23, orient=0, fit=0.991570445788, mean_fit=0.995288029275
+Filled field: pos=(9, 29), id=p_9_29, orient=0, fit=0.994631914325, mean_fit=0.994845404492
+Filled field: pos=(14, 24), id=p_14_24, orient=0, fit=0.992020716873, mean_fit=0.995293283436
+Filled field: pos=(14, 25), id=p_14_25, orient=0, fit=0.991173277089, mean_fit=0.995283392801
+Filled field: pos=(10, 29), id=p_10_29, orient=0, fit=0.996188148097, mean_fit=0.994519091977
+Filled field: pos=(14, 26), id=p_14_26, orient=0, fit=0.995247739178, mean_fit=0.994300109362
+Filled field: pos=(11, 29), id=p_11_29, orient=0, fit=0.998305366279, mean_fit=0.99454158822
+Filled field: pos=(14, 27), id=p_14_27, orient=0, fit=0.990596801048, mean_fit=0.994499159929
+Filled field: pos=(12, 29), id=p_12_29, orient=0, fit=0.994369528381, mean_fit=0.994468126316
+Filled field: pos=(14, 28), id=p_14_28, orient=0, fit=0.990419190357, mean_fit=0.99498220069
+Filled field: pos=(13, 29), id=p_13_29, orient=0, fit=0.992680562622, mean_fit=0.994411651758
+Filled field: pos=(14, 29), id=p_14_29, orient=0, fit=0.990123064658, mean_fit=0.994687445212
+Successfully obtained border!
+Filled field: pos=(1, 1), id=p_1_1, orient=0, fit=0.988623108367, mean_fit=0.989279434954
+Filled field: pos=(1, 2), id=p_1_2, orient=0, fit=0.990625929558, mean_fit=0.994103170231
+Filled field: pos=(1, 3), id=p_1_3, orient=0, fit=0.990370384984, mean_fit=0.995149387989
+Filled field: pos=(1, 4), id=p_1_4, orient=0, fit=0.985106023956, mean_fit=0.994667334503
+Filled field: pos=(1, 5), id=p_1_5, orient=0, fit=0.988548762502, mean_fit=0.994982847553
+Filled field: pos=(1, 6), id=p_1_6, orient=0, fit=0.992146207291, mean_fit=0.995311473334
+Filled field: pos=(1, 7), id=p_1_7, orient=0, fit=0.989317729633, mean_fit=0.995053183782
+Filled field: pos=(1, 8), id=p_1_8, orient=0, fit=0.991237098924, mean_fit=0.995228528899
+Filled field: pos=(1, 9), id=p_1_9, orient=0, fit=0.991581053401, mean_fit=0.995259918446
+Filled field: pos=(1, 10), id=p_1_10, orient=0, fit=0.988939716118, mean_fit=0.995018613686
+Filled field: pos=(1, 11), id=p_1_11, orient=0, fit=0.98557731483, mean_fit=0.994710585567
+Filled field: pos=(1, 12), id=p_1_12, orient=0, fit=0.985471770995, mean_fit=0.994700901287
+Filled field: pos=(1, 13), id=p_1_13, orient=0, fit=0.981254846674, mean_fit=0.994313199638
+Filled field: pos=(1, 14), id=p_1_14, orient=0, fit=0.99134700599, mean_fit=0.995238560178
+Filled field: pos=(1, 15), id=p_1_15, orient=0, fit=0.987103112737, mean_fit=0.994850481457
+Filled field: pos=(1, 16), id=p_1_16, orient=0, fit=0.988178569413, mean_fit=0.994948968828
+Filled field: pos=(1, 17), id=p_1_17, orient=0, fit=0.986933692234, mean_fit=0.994834957499
+Filled field: pos=(1, 18), id=p_1_18, orient=0, fit=0.983663067822, mean_fit=0.994534795209
+Filled field: pos=(1, 19), id=p_1_19, orient=0, fit=0.97131365223, mean_fit=0.993393183259
+Filled field: pos=(1, 20), id=p_1_20, orient=0, fit=0.98231402705, mean_fit=0.994410722321
+Filled field: pos=(1, 21), id=p_1_21, orient=0, fit=0.985478818364, mean_fit=0.994701547954
+Filled field: pos=(1, 22), id=p_1_22, orient=0, fit=0.984284611766, mean_fit=0.9945919073
+Filled field: pos=(1, 23), id=p_1_23, orient=0, fit=0.974979597664, mean_fit=0.993733443408
+Filled field: pos=(1, 24), id=p_1_24, orient=0, fit=0.979322739486, mean_fit=0.994135056568
+Filled field: pos=(1, 25), id=p_1_25, orient=0, fit=0.984634793502, mean_fit=0.994624070172
+Filled field: pos=(1, 26), id=p_1_26, orient=0, fit=0.98943745831, mean_fit=0.995064130706
+Filled field: pos=(1, 27), id=p_1_27, orient=0, fit=0.979734259549, mean_fit=0.994173026073
+Filled field: pos=(1, 28), id=p_1_28, orient=0, fit=0.95684559732, mean_fit=0.991563779955
+Filled field: pos=(2, 1), id=p_2_1, orient=0, fit=0.984923994575, mean_fit=0.994538682646
+Filled field: pos=(2, 28), id=p_2_28, orient=0, fit=0.986392443343, mean_fit=0.998478826159
+Filled field: pos=(3, 1), id=p_3_1, orient=0, fit=0.983641397857, mean_fit=0.996247611479
+Filled field: pos=(3, 28), id=p_3_28, orient=0, fit=0.992196527136, mean_fit=0.999397560056
+Filled field: pos=(4, 1), id=p_4_1, orient=0, fit=0.982863419953, mean_fit=0.9961819253
+Filled field: pos=(4, 28), id=p_4_28, orient=0, fit=0.984422957196, mean_fit=0.998793064339
+Filled field: pos=(5, 1), id=p_5_1, orient=0, fit=0.989403407939, mean_fit=0.996732631917
+Filled field: pos=(5, 28), id=p_5_28, orient=0, fit=0.985743479838, mean_fit=0.998896062045
+Filled field: pos=(6, 1), id=p_6_1, orient=0, fit=0.984067180035, mean_fit=0.99628354093
+Filled field: pos=(6, 28), id=p_6_28, orient=0, fit=0.978263822013, mean_fit=0.998310975037
+Filled field: pos=(7, 1), id=p_7_1, orient=0, fit=0.985868984588, mean_fit=0.996435427878
+Filled field: pos=(7, 28), id=p_7_28, orient=0, fit=0.990679761335, mean_fit=0.999279955982
+Filled field: pos=(8, 1), id=p_8_1, orient=0, fit=0.99189078657, mean_fit=0.996941208728
+Filled field: pos=(8, 28), id=p_8_28, orient=0, fit=0.991953342038, mean_fit=0.999378715613
+Filled field: pos=(9, 1), id=p_9_1, orient=0, fit=0.984788255946, mean_fit=0.99634435613
+Filled field: pos=(9, 28), id=p_9_28, orient=0, fit=0.995906267122, mean_fit=0.999684500923
+Filled field: pos=(10, 1), id=p_10_1, orient=0, fit=0.988650796909, mean_fit=0.996669427698
+Filled field: pos=(10, 28), id=p_10_28, orient=0, fit=0.995663395861, mean_fit=0.999665745531
+Filled field: pos=(11, 1), id=p_11_1, orient=0, fit=0.993017369972, mean_fit=0.997035519612
+Filled field: pos=(11, 28), id=p_11_28, orient=0, fit=0.996469156875, mean_fit=0.999727953068
+Filled field: pos=(12, 1), id=p_12_1, orient=0, fit=0.99395523769, mean_fit=0.997113957557
+Filled field: pos=(12, 28), id=p_12_28, orient=0, fit=0.988213178321, mean_fit=0.999088351421
+Filled field: pos=(13, 1), id=p_13_1, orient=0, fit=0.982564066092, mean_fit=0.997803699138
+Filled field: pos=(13, 2), id=p_13_2, orient=0, fit=0.987078648733, mean_fit=0.998700289547
+Filled field: pos=(13, 3), id=p_13_3, orient=0, fit=0.985231901545, mean_fit=0.998760915593
+Filled field: pos=(13, 4), id=p_13_4, orient=0, fit=0.988987772142, mean_fit=0.999077649685
+Filled field: pos=(13, 5), id=p_13_5, orient=0, fit=0.987677866625, mean_fit=0.998967310231
+Filled field: pos=(13, 6), id=p_13_6, orient=0, fit=0.982008844182, mean_fit=0.998488230179
+Filled field: pos=(13, 7), id=p_13_7, orient=0, fit=0.990125969463, mean_fit=0.999173416636
+Filled field: pos=(13, 8), id=p_13_8, orient=0, fit=0.986081952718, mean_fit=0.998832697538
+Filled field: pos=(13, 9), id=p_13_9, orient=0, fit=0.977988727705, mean_fit=0.998146957767
+Filled field: pos=(13, 10), id=p_13_10, orient=0, fit=0.981352201273, mean_fit=0.998432574601
+Filled field: pos=(13, 11), id=p_13_11, orient=0, fit=0.984538421457, mean_fit=0.998702313117
+Filled field: pos=(13, 12), id=p_13_12, orient=0, fit=0.984503982114, mean_fit=0.998699401837
+Filled field: pos=(13, 13), id=p_13_13, orient=0, fit=0.984747797647, mean_fit=0.99872001042
+Filled field: pos=(13, 14), id=p_13_14, orient=0, fit=0.979992435907, mean_fit=0.998317215322
+Filled field: pos=(13, 15), id=p_13_15, orient=0, fit=0.983397372244, mean_fit=0.998605806449
+Filled field: pos=(13, 16), id=p_13_16, orient=0, fit=0.98922303725, mean_fit=0.999097452971
+Filled field: pos=(13, 17), id=p_13_17, orient=0, fit=0.983714917059, mean_fit=0.998632673782
+Filled field: pos=(13, 18), id=p_13_18, orient=0, fit=0.981180989899, mean_fit=0.998418057499
+Filled field: pos=(13, 19), id=p_13_19, orient=0, fit=0.986287094702, mean_fit=0.998850012105
+Filled field: pos=(13, 20), id=p_13_20, orient=0, fit=0.988879026484, mean_fit=0.999068494632
+Filled field: pos=(13, 21), id=p_13_21, orient=0, fit=0.989253846724, mean_fit=0.999100046019
+Filled field: pos=(13, 22), id=p_13_22, orient=0, fit=0.979688377368, mean_fit=0.998291399642
+Filled field: pos=(13, 23), id=p_13_23, orient=0, fit=0.986734033367, mean_fit=0.998887723572
+Filled field: pos=(13, 24), id=p_13_24, orient=0, fit=0.9862831128, mean_fit=0.998849676052
+Filled field: pos=(13, 25), id=p_13_25, orient=0, fit=0.982988163568, mean_fit=0.998571171745
+Filled field: pos=(13, 26), id=p_13_26, orient=0, fit=0.976169842154, mean_fit=0.997992127719
+Filled field: pos=(13, 27), id=p_13_27, orient=0, fit=0.988700843183, mean_fit=0.99873818817
+Filled field: pos=(13, 28), id=p_13_28, orient=0, fit=0.978718866417, mean_fit=0.989302211873
+Filled field: pos=(2, 2), id=p_2_2, orient=0, fit=0.971786182779, mean_fit=0.997142143939
+Filled field: pos=(2, 3), id=p_2_3, orient=0, fit=0.985896927098, mean_fit=0.998985981161
+Filled field: pos=(2, 4), id=p_2_4, orient=0, fit=0.98654508576, mean_fit=0.999097324203
+Filled field: pos=(2, 5), id=p_2_5, orient=0, fit=0.989026232705, mean_fit=0.999264642292
+Filled field: pos=(2, 6), id=p_2_6, orient=0, fit=0.992538068321, mean_fit=0.999500797232
+Filled field: pos=(2, 7), id=p_2_7, orient=0, fit=0.994241350865, mean_fit=0.999615054505
+Filled field: pos=(2, 8), id=p_2_8, orient=0, fit=0.986403367491, mean_fit=0.999087755467
+Filled field: pos=(2, 9), id=p_2_9, orient=0, fit=0.985090969198, mean_fit=0.998999082082
+Filled field: pos=(2, 10), id=p_2_10, orient=0, fit=0.979351055854, mean_fit=0.998609959365
+Filled field: pos=(2, 11), id=p_2_11, orient=0, fit=0.986641585734, mean_fit=0.999103839091
+Filled field: pos=(2, 12), id=p_2_12, orient=0, fit=0.982279015122, mean_fit=0.998808718038
+Filled field: pos=(2, 13), id=p_2_13, orient=0, fit=0.983080028667, mean_fit=0.998862996914
+Filled field: pos=(2, 14), id=p_2_14, orient=0, fit=0.983319885341, mean_fit=0.99887924223
+Filled field: pos=(2, 15), id=p_2_15, orient=0, fit=0.980623573464, mean_fit=0.998696409732
+Filled field: pos=(2, 16), id=p_2_16, orient=0, fit=0.981559199636, mean_fit=0.998759906112
+Filled field: pos=(2, 17), id=p_2_17, orient=0, fit=0.981216958206, mean_fit=0.998736686412
+Filled field: pos=(2, 18), id=p_2_18, orient=0, fit=0.977296914867, mean_fit=0.998470186797
+Filled field: pos=(2, 19), id=p_2_19, orient=0, fit=0.983472074036, mean_fit=0.99888954794
+Filled field: pos=(2, 20), id=p_2_20, orient=0, fit=0.982365521266, mean_fit=0.998814581921
+Filled field: pos=(2, 21), id=p_2_21, orient=0, fit=0.983508128371, mean_fit=0.998891989201
+Filled field: pos=(2, 22), id=p_2_22, orient=0, fit=0.978568293473, mean_fit=0.998556729149
+Filled field: pos=(2, 23), id=p_2_23, orient=0, fit=0.979097192384, mean_fit=0.998592700231
+Filled field: pos=(2, 24), id=p_2_24, orient=0, fit=0.979898299547, mean_fit=0.998647150016
+Filled field: pos=(2, 25), id=p_2_25, orient=0, fit=0.981893841406, mean_fit=0.9987826029
+Filled field: pos=(2, 26), id=p_2_26, orient=0, fit=0.981956022235, mean_fit=0.998786819466
+Filled field: pos=(2, 27), id=p_2_27, orient=0, fit=0.967144343887, mean_fit=0.996664821617
+Filled field: pos=(3, 2), id=p_3_2, orient=0, fit=0.978491577167, mean_fit=0.998025306815
+Filled field: pos=(3, 27), id=p_3_27, orient=0, fit=0.980369181693, mean_fit=0.997799528789
+Filled field: pos=(4, 2), id=p_4_2, orient=0, fit=0.987702142039, mean_fit=0.999175400012
+Filled field: pos=(4, 27), id=p_4_27, orient=0, fit=0.98598404551, mean_fit=0.998992286261
+Filled field: pos=(5, 2), id=p_5_2, orient=0, fit=0.986862577697, mean_fit=0.999118756419
+Filled field: pos=(5, 27), id=p_5_27, orient=0, fit=0.988608208286, mean_fit=0.999181965116
+Filled field: pos=(6, 2), id=p_6_2, orient=0, fit=0.985659515938, mean_fit=0.999037509988
+Filled field: pos=(6, 27), id=p_6_27, orient=0, fit=0.985019778476, mean_fit=0.998922469643
+Filled field: pos=(7, 2), id=p_7_2, orient=0, fit=0.981420028539, mean_fit=0.998750464826
+Filled field: pos=(7, 27), id=p_7_27, orient=0, fit=0.9896605809, mean_fit=0.999257901048
+Filled field: pos=(8, 2), id=p_8_2, orient=0, fit=0.991419536746, mean_fit=0.999425665835
+Filled field: pos=(8, 27), id=p_8_27, orient=0, fit=0.99008603641, mean_fit=0.999288579311
+Filled field: pos=(9, 2), id=p_9_2, orient=0, fit=0.988384850735, mean_fit=0.999221427775
+Filled field: pos=(9, 27), id=p_9_27, orient=0, fit=0.994877685742, mean_fit=0.999633247393
+Filled field: pos=(10, 2), id=p_10_2, orient=0, fit=0.980668608086, mean_fit=0.998699467307
+Filled field: pos=(10, 27), id=p_10_27, orient=0, fit=0.994180624439, mean_fit=0.999583203019
+Filled field: pos=(11, 2), id=p_11_2, orient=0, fit=0.987430273276, mean_fit=0.999157062536
+Filled field: pos=(11, 27), id=p_11_27, orient=0, fit=0.994849325171, mean_fit=0.999631211928
+Filled field: pos=(12, 2), id=p_12_2, orient=0, fit=0.974624949831, mean_fit=0.99714823527
+Filled field: pos=(12, 3), id=p_12_3, orient=0, fit=0.98784662201, mean_fit=0.998777963878
+Filled field: pos=(12, 4), id=p_12_4, orient=0, fit=0.981777773769, mean_fit=0.998586361986
+Filled field: pos=(12, 5), id=p_12_5, orient=0, fit=0.987229063637, mean_fit=0.99901178201
+Filled field: pos=(12, 6), id=p_12_6, orient=0, fit=0.985937243112, mean_fit=0.998911164415
+Filled field: pos=(12, 7), id=p_12_7, orient=0, fit=0.983454845778, mean_fit=0.998717472836
+Filled field: pos=(12, 8), id=p_12_8, orient=0, fit=0.980912363548, mean_fit=0.99851862469
+Filled field: pos=(12, 9), id=p_12_9, orient=0, fit=0.988142053681, mean_fit=0.999082819902
+Filled field: pos=(12, 10), id=p_12_10, orient=0, fit=0.985662869182, mean_fit=0.998889778252
+Filled field: pos=(12, 11), id=p_12_11, orient=0, fit=0.989433408788, mean_fit=0.999183194226
+Filled field: pos=(12, 12), id=p_12_12, orient=0, fit=0.988043075041, mean_fit=0.999075121505
+Filled field: pos=(12, 13), id=p_12_13, orient=0, fit=0.986119990479, mean_fit=0.998925405668
+Filled field: pos=(12, 14), id=p_12_14, orient=0, fit=0.982312098991, mean_fit=0.998628157117
+Filled field: pos=(12, 15), id=p_12_15, orient=0, fit=0.983083500529, mean_fit=0.998688459449
+Filled field: pos=(12, 16), id=p_12_16, orient=0, fit=0.982431857957, mean_fit=0.998637521832
+Filled field: pos=(12, 17), id=p_12_17, orient=0, fit=0.987891556443, mean_fit=0.999063335257
+Filled field: pos=(12, 18), id=p_12_18, orient=0, fit=0.981561381321, mean_fit=0.998569429709
+Filled field: pos=(12, 19), id=p_12_19, orient=0, fit=0.979257421337, mean_fit=0.998388935478
+Filled field: pos=(12, 20), id=p_12_20, orient=0, fit=0.974661126115, mean_fit=0.998027683627
+Filled field: pos=(12, 21), id=p_12_21, orient=0, fit=0.985970726822, mean_fit=0.998913773937
+Filled field: pos=(12, 22), id=p_12_22, orient=0, fit=0.983303061462, mean_fit=0.998705615075
+Filled field: pos=(12, 23), id=p_12_23, orient=0, fit=0.984781901032, mean_fit=0.998821073742
+Filled field: pos=(12, 24), id=p_12_24, orient=0, fit=0.983027436733, mean_fit=0.998684078278
+Filled field: pos=(12, 25), id=p_12_25, orient=0, fit=0.981824785278, mean_fit=0.998590040087
+Filled field: pos=(12, 26), id=p_12_26, orient=0, fit=0.984737514789, mean_fit=0.998292553152
+Filled field: pos=(12, 27), id=p_12_27, orient=0, fit=0.978439555992, mean_fit=0.98916103643
+Filled field: pos=(3, 3), id=p_3_3, orient=0, fit=0.982395451311, mean_fit=0.998386634532
+Filled field: pos=(3, 4), id=p_3_4, orient=0, fit=0.979105683332, mean_fit=0.998681139712
+Filled field: pos=(3, 5), id=p_3_5, orient=0, fit=0.990378761965, mean_fit=0.999395943692
+Filled field: pos=(3, 6), id=p_3_6, orient=0, fit=0.983136250882, mean_fit=0.998937592178
+Filled field: pos=(3, 7), id=p_3_7, orient=0, fit=0.983839200701, mean_fit=0.998982217717
+Filled field: pos=(3, 8), id=p_3_8, orient=0, fit=0.991032952318, mean_fit=0.999437190086
+Filled field: pos=(3, 9), id=p_3_9, orient=0, fit=0.982787373896, mean_fit=0.998915433225
+Filled field: pos=(3, 10), id=p_3_10, orient=0, fit=0.980785377073, mean_fit=0.998788133461
+Filled field: pos=(3, 11), id=p_3_11, orient=0, fit=0.982374888857, mean_fit=0.998889224685
+Filled field: pos=(3, 12), id=p_3_12, orient=0, fit=0.980263368908, mean_fit=0.998754900803
+Filled field: pos=(3, 13), id=p_3_13, orient=0, fit=0.979571253869, mean_fit=0.998710813023
+Filled field: pos=(3, 14), id=p_3_14, orient=0, fit=0.982113740421, mean_fit=0.99887262646
+Filled field: pos=(3, 15), id=p_3_15, orient=0, fit=0.98533851653, mean_fit=0.999077299372
+Filled field: pos=(3, 16), id=p_3_16, orient=0, fit=0.976428388077, mean_fit=0.998510244124
+Filled field: pos=(3, 17), id=p_3_17, orient=0, fit=0.97681999734, mean_fit=0.998535268512
+Filled field: pos=(3, 18), id=p_3_18, orient=0, fit=0.983402287013, mean_fit=0.998954484533
+Filled field: pos=(3, 19), id=p_3_19, orient=0, fit=0.973025293941, mean_fit=0.998292384556
+Filled field: pos=(3, 20), id=p_3_20, orient=0, fit=0.971802947528, mean_fit=0.998213957878
+Filled field: pos=(3, 21), id=p_3_21, orient=0, fit=0.984664569343, mean_fit=0.999034576662
+Filled field: pos=(3, 22), id=p_3_22, orient=0, fit=0.987213408257, mean_fit=0.999196008136
+Filled field: pos=(3, 23), id=p_3_23, orient=0, fit=0.972521752297, mean_fit=0.998260088133
+Filled field: pos=(3, 24), id=p_3_24, orient=0, fit=0.974603609778, mean_fit=0.998393513987
+Filled field: pos=(3, 25), id=p_3_25, orient=0, fit=0.989892835952, mean_fit=0.99936528975
+Filled field: pos=(3, 26), id=p_3_26, orient=0, fit=0.973072556906, mean_fit=0.997274059215
+Filled field: pos=(4, 3), id=p_4_3, orient=0, fit=0.980173197797, mean_fit=0.998181111596
+Filled field: pos=(4, 26), id=p_4_26, orient=0, fit=0.985313394548, mean_fit=0.998357403723
+Filled field: pos=(5, 3), id=p_5_3, orient=0, fit=0.986680019144, mean_fit=0.999106433635
+Filled field: pos=(5, 26), id=p_5_26, orient=0, fit=0.979090908028, mean_fit=0.998491796861
+Filled field: pos=(6, 3), id=p_6_3, orient=0, fit=0.986989833235, mean_fit=0.999127344967
+Filled field: pos=(6, 26), id=p_6_26, orient=0, fit=0.979518227183, mean_fit=0.998522918167
+Filled field: pos=(7, 3), id=p_7_3, orient=0, fit=0.982544604126, mean_fit=0.998826719654
+Filled field: pos=(7, 26), id=p_7_26, orient=0, fit=0.984695333434, mean_fit=0.998898964313
+Filled field: pos=(8, 3), id=p_8_3, orient=0, fit=0.992550248415, mean_fit=0.99950161493
+Filled field: pos=(8, 26), id=p_8_26, orient=0, fit=0.990924613632, mean_fit=0.99934901066
+Filled field: pos=(9, 3), id=p_9_3, orient=0, fit=0.984951255491, mean_fit=0.998989635706
+Filled field: pos=(9, 26), id=p_9_26, orient=0, fit=0.990897973253, mean_fit=0.999347091575
+Filled field: pos=(10, 3), id=p_10_3, orient=0, fit=0.986199065187, mean_fit=0.999073958835
+Filled field: pos=(10, 26), id=p_10_26, orient=0, fit=0.995314595314, mean_fit=0.999664598003
+Filled field: pos=(11, 3), id=p_11_3, orient=0, fit=0.992418280388, mean_fit=0.999154734444
+Filled field: pos=(11, 4), id=p_11_4, orient=0, fit=0.991296624136, mean_fit=0.999126234811
+Filled field: pos=(11, 5), id=p_11_5, orient=0, fit=0.975704037809, mean_fit=0.998109790354
+Filled field: pos=(11, 6), id=p_11_6, orient=0, fit=0.981619012433, mean_fit=0.998573939565
+Filled field: pos=(11, 7), id=p_11_7, orient=0, fit=0.987764341977, mean_fit=0.999053438276
+Filled field: pos=(11, 8), id=p_11_8, orient=0, fit=0.987227219103, mean_fit=0.999011638429
+Filled field: pos=(11, 9), id=p_11_9, orient=0, fit=0.989625506768, mean_fit=0.999198115265
+Filled field: pos=(11, 10), id=p_11_10, orient=0, fit=0.979507070051, mean_fit=0.9984085121
+Filled field: pos=(11, 11), id=p_11_11, orient=0, fit=0.984854960784, mean_fit=0.998826773647
+Filled field: pos=(11, 12), id=p_11_12, orient=0, fit=0.985142412149, mean_fit=0.99884919596
+Filled field: pos=(11, 13), id=p_11_13, orient=0, fit=0.985069681225, mean_fit=0.998843523239
+Filled field: pos=(11, 14), id=p_11_14, orient=0, fit=0.984151928098, mean_fit=0.998771908924
+Filled field: pos=(11, 15), id=p_11_15, orient=0, fit=0.987498008532, mean_fit=0.999032714362
+Filled field: pos=(11, 16), id=p_11_16, orient=0, fit=0.988522063002, mean_fit=0.999112369797
+Filled field: pos=(11, 17), id=p_11_17, orient=0, fit=0.976855805786, mean_fit=0.998200373075
+Filled field: pos=(11, 18), id=p_11_18, orient=0, fit=0.988788254988, mean_fit=0.9991330629
+Filled field: pos=(11, 19), id=p_11_19, orient=0, fit=0.983453307975, mean_fit=0.998717352708
+Filled field: pos=(11, 20), id=p_11_20, orient=0, fit=0.985914704373, mean_fit=0.998909407833
+Filled field: pos=(11, 21), id=p_11_21, orient=0, fit=0.987557113899, mean_fit=0.999037313909
+Filled field: pos=(11, 22), id=p_11_22, orient=0, fit=0.986985184922, mean_fit=0.998992796042
+Filled field: pos=(11, 23), id=p_11_23, orient=0, fit=0.981840229518, mean_fit=0.998591248383
+Filled field: pos=(11, 24), id=p_11_24, orient=0, fit=0.983572097057, mean_fit=0.998726631636
+Filled field: pos=(11, 25), id=p_11_25, orient=0, fit=0.980515275836, mean_fit=0.997816048985
+Filled field: pos=(11, 26), id=p_11_26, orient=0, fit=0.987265959521, mean_fit=0.993612580195
+Filled field: pos=(4, 4), id=p_4_4, orient=0, fit=0.988289443921, mean_fit=0.998929694576
+Filled field: pos=(4, 5), id=p_4_5, orient=0, fit=0.984777259745, mean_fit=0.999041722215
+Filled field: pos=(4, 6), id=p_4_6, orient=0, fit=0.987289831732, mean_fit=0.999200842404
+Filled field: pos=(4, 7), id=p_4_7, orient=0, fit=0.976762552087, mean_fit=0.998531598267
+Filled field: pos=(4, 8), id=p_4_8, orient=0, fit=0.983554361321, mean_fit=0.998964138791
+Filled field: pos=(4, 9), id=p_4_9, orient=0, fit=0.977368761207, mean_fit=0.998570319483
+Filled field: pos=(4, 10), id=p_4_10, orient=0, fit=0.986393400968, mean_fit=0.999144115405
+Filled field: pos=(4, 11), id=p_4_11, orient=0, fit=0.990092774619, mean_fit=0.9993779043
+Filled field: pos=(4, 12), id=p_4_12, orient=0, fit=0.984837875922, mean_fit=0.999045565492
+Filled field: pos=(4, 13), id=p_4_13, orient=0, fit=0.975138629014, mean_fit=0.998427760111
+Filled field: pos=(4, 14), id=p_4_14, orient=0, fit=0.98790364728, mean_fit=0.999239657395
+Filled field: pos=(4, 15), id=p_4_15, orient=0, fit=0.963840142333, mean_fit=0.997700783159
+Filled field: pos=(4, 16), id=p_4_16, orient=0, fit=0.984207410576, mean_fit=0.999005580948
+Filled field: pos=(4, 17), id=p_4_17, orient=0, fit=0.985898666812, mean_fit=0.999112787452
+Filled field: pos=(4, 18), id=p_4_18, orient=0, fit=0.987671931947, mean_fit=0.999225007396
+Filled field: pos=(4, 19), id=p_4_19, orient=0, fit=0.970495915993, mean_fit=0.998129995358
+Filled field: pos=(4, 20), id=p_4_20, orient=0, fit=0.980690386053, mean_fit=0.998782087272
+Filled field: pos=(4, 21), id=p_4_21, orient=0, fit=0.976077462991, mean_fit=0.998487811517
+Filled field: pos=(4, 22), id=p_4_22, orient=0, fit=0.974250817696, mean_fit=0.998370922424
+Filled field: pos=(4, 23), id=p_4_23, orient=0, fit=0.986153165264, mean_fit=0.999128904848
+Filled field: pos=(4, 24), id=p_4_24, orient=0, fit=0.981534207255, mean_fit=0.998835777368
+Filled field: pos=(4, 25), id=p_4_25, orient=0, fit=0.978407744646, mean_fit=0.997819502844
+Filled field: pos=(5, 4), id=p_5_4, orient=0, fit=0.990150257323, mean_fit=0.999100534553
+Filled field: pos=(5, 25), id=p_5_25, orient=0, fit=0.988970803129, mean_fit=0.99876848456
+Filled field: pos=(6, 4), id=p_6_4, orient=0, fit=0.989467018711, mean_fit=0.999294326054
+Filled field: pos=(6, 25), id=p_6_25, orient=0, fit=0.981450246925, mean_fit=0.998663468426
+Filled field: pos=(7, 4), id=p_7_4, orient=0, fit=0.98411322001, mean_fit=0.998932947868
+Filled field: pos=(7, 25), id=p_7_25, orient=0, fit=0.987858712484, mean_fit=0.999127838053
+Filled field: pos=(8, 4), id=p_8_4, orient=0, fit=0.98904260751, mean_fit=0.999265745238
+Filled field: pos=(8, 25), id=p_8_25, orient=0, fit=0.987778311867, mean_fit=0.99912202942
+Filled field: pos=(9, 4), id=p_9_4, orient=0, fit=0.992434007806, mean_fit=0.999493810857
+Filled field: pos=(9, 25), id=p_9_25, orient=0, fit=0.994753649602, mean_fit=0.999624344803
+Filled field: pos=(10, 4), id=p_10_4, orient=0, fit=0.983316620037, mean_fit=0.998132400024
+Filled field: pos=(10, 5), id=p_10_5, orient=0, fit=0.987004892447, mean_fit=0.998692826829
+Filled field: pos=(10, 6), id=p_10_6, orient=0, fit=0.985857938191, mean_fit=0.998904983532
+Filled field: pos=(10, 7), id=p_10_7, orient=0, fit=0.985031177592, mean_fit=0.998840519953
+Filled field: pos=(10, 8), id=p_10_8, orient=0, fit=0.983861848873, mean_fit=0.998749260576
+Filled field: pos=(10, 9), id=p_10_9, orient=0, fit=0.983529714913, mean_fit=0.998723321174
+Filled field: pos=(10, 10), id=p_10_10, orient=0, fit=0.986441213009, mean_fit=0.9989504322
+Filled field: pos=(10, 11), id=p_10_11, orient=0, fit=0.98827556481, mean_fit=0.999093203053
+Filled field: pos=(10, 12), id=p_10_12, orient=0, fit=0.990057201228, mean_fit=0.999231636996
+Filled field: pos=(10, 13), id=p_10_13, orient=0, fit=0.990075364628, mean_fit=0.999233047115
+Filled field: pos=(10, 14), id=p_10_14, orient=0, fit=0.983655581589, mean_fit=0.998733152214
+Filled field: pos=(10, 15), id=p_10_15, orient=0, fit=0.97906089218, mean_fit=0.998373521073
+Filled field: pos=(10, 16), id=p_10_16, orient=0, fit=0.988563363108, mean_fit=0.999115580701
+Filled field: pos=(10, 17), id=p_10_17, orient=0, fit=0.98605807811, mean_fit=0.998920581195
+Filled field: pos=(10, 18), id=p_10_18, orient=0, fit=0.981736576469, mean_fit=0.998583138645
+Filled field: pos=(10, 19), id=p_10_19, orient=0, fit=0.985379683508, mean_fit=0.998867699491
+Filled field: pos=(10, 20), id=p_10_20, orient=0, fit=0.980647647131, mean_fit=0.998497893818
+Filled field: pos=(10, 21), id=p_10_21, orient=0, fit=0.980851812532, mean_fit=0.998513883183
+Filled field: pos=(10, 22), id=p_10_22, orient=0, fit=0.979226456637, mean_fit=0.998386507007
+Filled field: pos=(10, 23), id=p_10_23, orient=0, fit=0.982791654323, mean_fit=0.99866565026
+Filled field: pos=(10, 24), id=p_10_24, orient=0, fit=0.989479662841, mean_fit=0.998825571613
+Filled field: pos=(10, 25), id=p_10_25, orient=0, fit=0.990039230189, mean_fit=0.995007150823
+Filled field: pos=(5, 5), id=p_5_5, orient=0, fit=0.979030489661, mean_fit=0.998075264388
+Filled field: pos=(5, 6), id=p_5_6, orient=0, fit=0.977589122439, mean_fit=0.998584389334
+Filled field: pos=(5, 7), id=p_5_7, orient=0, fit=0.986013512495, mean_fit=0.999120061116
+Filled field: pos=(5, 8), id=p_5_8, orient=0, fit=0.984728138596, mean_fit=0.999038607601
+Filled field: pos=(5, 9), id=p_5_9, orient=0, fit=0.987318972527, mean_fit=0.999202685651
+Filled field: pos=(5, 10), id=p_5_10, orient=0, fit=0.989875750401, mean_fit=0.999364211676
+Filled field: pos=(5, 11), id=p_5_11, orient=0, fit=0.982777520475, mean_fit=0.998914807277
+Filled field: pos=(5, 12), id=p_5_12, orient=0, fit=0.983330753493, mean_fit=0.998949942828
+Filled field: pos=(5, 13), id=p_5_13, orient=0, fit=0.982805316769, mean_fit=0.998916573048
+Filled field: pos=(5, 14), id=p_5_14, orient=0, fit=0.981441636947, mean_fit=0.998829889479
+Filled field: pos=(5, 15), id=p_5_15, orient=0, fit=0.982485592441, mean_fit=0.9988962596
+Filled field: pos=(5, 16), id=p_5_16, orient=0, fit=0.985206706407, mean_fit=0.99906894585
+Filled field: pos=(5, 17), id=p_5_17, orient=0, fit=0.984344403698, mean_fit=0.999014271187
+Filled field: pos=(5, 18), id=p_5_18, orient=0, fit=0.985663177972, mean_fit=0.999097870462
+Filled field: pos=(5, 19), id=p_5_19, orient=0, fit=0.981517162198, mean_fit=0.998834693264
+Filled field: pos=(5, 20), id=p_5_20, orient=0, fit=0.980871381912, mean_fit=0.998793607204
+Filled field: pos=(5, 21), id=p_5_21, orient=0, fit=0.981999034717, mean_fit=0.99886533462
+Filled field: pos=(5, 22), id=p_5_22, orient=0, fit=0.983151781236, mean_fit=0.998938578418
+Filled field: pos=(5, 23), id=p_5_23, orient=0, fit=0.981588232861, mean_fit=0.998839213399
+Filled field: pos=(5, 24), id=p_5_24, orient=0, fit=0.965119584929, mean_fit=0.996455968645
+Filled field: pos=(6, 5), id=p_6_5, orient=0, fit=0.974710600244, mean_fit=0.997674102528
+Filled field: pos=(6, 24), id=p_6_24, orient=0, fit=0.981522213773, mean_fit=0.997929853155
+Filled field: pos=(7, 5), id=p_7_5, orient=0, fit=0.988043179425, mean_fit=0.999198396235
+Filled field: pos=(7, 24), id=p_7_24, orient=0, fit=0.987891701507, mean_fit=0.999130221255
+Filled field: pos=(8, 5), id=p_8_5, orient=0, fit=0.987275481182, mean_fit=0.999146619744
+Filled field: pos=(8, 24), id=p_8_24, orient=0, fit=0.987378001677, mean_fit=0.99909310202
+Filled field: pos=(9, 5), id=p_9_5, orient=0, fit=0.980094243299, mean_fit=0.997768433066
+Filled field: pos=(9, 6), id=p_9_6, orient=0, fit=0.986092436553, mean_fit=0.998600462294
+Filled field: pos=(9, 7), id=p_9_7, orient=0, fit=0.988201318183, mean_fit=0.999087429058
+Filled field: pos=(9, 8), id=p_9_8, orient=0, fit=0.985946604864, mean_fit=0.998911894023
+Filled field: pos=(9, 9), id=p_9_9, orient=0, fit=0.985970676906, mean_fit=0.998913770047
+Filled field: pos=(9, 10), id=p_9_10, orient=0, fit=0.977110305002, mean_fit=0.998220375293
+Filled field: pos=(9, 11), id=p_9_11, orient=0, fit=0.989014626995, mean_fit=0.999150656451
+Filled field: pos=(9, 12), id=p_9_12, orient=0, fit=0.97792478906, mean_fit=0.998284356885
+Filled field: pos=(9, 13), id=p_9_13, orient=0, fit=0.985296414269, mean_fit=0.998861206235
+Filled field: pos=(9, 14), id=p_9_14, orient=0, fit=0.983927686202, mean_fit=0.998754401459
+Filled field: pos=(9, 15), id=p_9_15, orient=0, fit=0.992268147852, mean_fit=0.999403109142
+Filled field: pos=(9, 16), id=p_9_16, orient=0, fit=0.988586108705, mean_fit=0.99911734902
+Filled field: pos=(9, 17), id=p_9_17, orient=0, fit=0.983357688738, mean_fit=0.998709882886
+Filled field: pos=(9, 18), id=p_9_18, orient=0, fit=0.977839085423, mean_fit=0.998277626773
+Filled field: pos=(9, 19), id=p_9_19, orient=0, fit=0.975595238916, mean_fit=0.998101228581
+Filled field: pos=(9, 20), id=p_9_20, orient=0, fit=0.97989332536, mean_fit=0.998438791885
+Filled field: pos=(9, 21), id=p_9_21, orient=0, fit=0.99202163628, mean_fit=0.999384008173
+Filled field: pos=(9, 22), id=p_9_22, orient=0, fit=0.984412823423, mean_fit=0.998792273435
+Filled field: pos=(9, 23), id=p_9_23, orient=0, fit=0.972516343487, mean_fit=0.996908300511
+Filled field: pos=(9, 24), id=p_9_24, orient=0, fit=0.990873892208, mean_fit=0.995426487596
+Filled field: pos=(6, 6), id=p_6_6, orient=0, fit=0.986132186819, mean_fit=0.998731271912
+Filled field: pos=(6, 7), id=p_6_7, orient=0, fit=0.983300169596, mean_fit=0.998948000944
+Filled field: pos=(6, 8), id=p_6_8, orient=0, fit=0.984311922282, mean_fit=0.999012210812
+Filled field: pos=(6, 9), id=p_6_9, orient=0, fit=0.983062204674, mean_fit=0.998932889743
+Filled field: pos=(6, 10), id=p_6_10, orient=0, fit=0.990858581195, mean_fit=0.999426198564
+Filled field: pos=(6, 11), id=p_6_11, orient=0, fit=0.979823853295, mean_fit=0.998726907008
+Filled field: pos=(6, 12), id=p_6_12, orient=0, fit=0.981119392285, mean_fit=0.998809389206
+Filled field: pos=(6, 13), id=p_6_13, orient=0, fit=0.981219286163, mean_fit=0.99881574484
+Filled field: pos=(6, 14), id=p_6_14, orient=0, fit=0.971915399387, mean_fit=0.998221176736
+Filled field: pos=(6, 15), id=p_6_15, orient=0, fit=0.981386535613, mean_fit=0.998826384539
+Filled field: pos=(6, 16), id=p_6_16, orient=0, fit=0.978122943174, mean_fit=0.99861846095
+Filled field: pos=(6, 17), id=p_6_17, orient=0, fit=0.986510653524, mean_fit=0.999151538006
+Filled field: pos=(6, 18), id=p_6_18, orient=0, fit=0.985629972945, mean_fit=0.999095766828
+Filled field: pos=(6, 19), id=p_6_19, orient=0, fit=0.976255288315, mean_fit=0.998499179804
+Filled field: pos=(6, 20), id=p_6_20, orient=0, fit=0.982272997165, mean_fit=0.998882749085
+Filled field: pos=(6, 21), id=p_6_21, orient=0, fit=0.979934616905, mean_fit=0.998733962915
+Filled field: pos=(6, 22), id=p_6_22, orient=0, fit=0.977267453894, mean_fit=0.998563850111
+Filled field: pos=(6, 23), id=p_6_23, orient=0, fit=0.97438478224, mean_fit=0.997408463871
+Filled field: pos=(7, 6), id=p_7_6, orient=0, fit=0.982603544637, mean_fit=0.998405858192
+Filled field: pos=(7, 23), id=p_7_23, orient=0, fit=0.982365489106, mean_fit=0.99802508035
+Filled field: pos=(8, 6), id=p_8_6, orient=0, fit=0.978450124576, mean_fit=0.997582320112
+Filled field: pos=(8, 7), id=p_8_7, orient=0, fit=0.988027031626, mean_fit=0.998796202979
+Filled field: pos=(8, 8), id=p_8_8, orient=0, fit=0.984717540742, mean_fit=0.99881605222
+Filled field: pos=(8, 9), id=p_8_9, orient=0, fit=0.990123138859, mean_fit=0.999236755965
+Filled field: pos=(8, 10), id=p_8_10, orient=0, fit=0.980527596883, mean_fit=0.998488490558
+Filled field: pos=(8, 11), id=p_8_11, orient=0, fit=0.981212860086, mean_fit=0.998542151372
+Filled field: pos=(8, 12), id=p_8_12, orient=0, fit=0.980848358359, mean_fit=0.998513612693
+Filled field: pos=(8, 13), id=p_8_13, orient=0, fit=0.985108589894, mean_fit=0.998846558008
+Filled field: pos=(8, 14), id=p_8_14, orient=0, fit=0.985039150405, mean_fit=0.998841141842
+Filled field: pos=(8, 15), id=p_8_15, orient=0, fit=0.989042172194, mean_fit=0.999152797001
+Filled field: pos=(8, 16), id=p_8_16, orient=0, fit=0.980802039815, mean_fit=0.998509985479
+Filled field: pos=(8, 17), id=p_8_17, orient=0, fit=0.973362264934, mean_fit=0.997925312946
+Filled field: pos=(8, 18), id=p_8_18, orient=0, fit=0.984161458509, mean_fit=0.99877265292
+Filled field: pos=(8, 19), id=p_8_19, orient=0, fit=0.983706905157, mean_fit=0.998737160599
+Filled field: pos=(8, 20), id=p_8_20, orient=0, fit=0.984406287008, mean_fit=0.998791763287
+Filled field: pos=(8, 21), id=p_8_21, orient=0, fit=0.985390926285, mean_fit=0.998868576153
+Filled field: pos=(8, 22), id=p_8_22, orient=0, fit=0.979866650385, mean_fit=0.997742686283
+Filled field: pos=(8, 23), id=p_8_23, orient=0, fit=0.972291938131, mean_fit=0.986048648968
+Filled field: pos=(7, 7), id=p_7_7, orient=0, fit=0.979770731474, mean_fit=0.995921005358
+Filled field: pos=(7, 8), id=p_7_8, orient=0, fit=0.979007448958, mean_fit=0.995765784129
+Filled field: pos=(7, 9), id=p_7_9, orient=0, fit=0.970623780179, mean_fit=0.994054476631
+Filled field: pos=(7, 10), id=p_7_10, orient=0, fit=0.980739015289, mean_fit=0.996117776536
+Filled field: pos=(7, 11), id=p_7_11, orient=0, fit=0.975473502522, mean_fit=0.995045856001
+Filled field: pos=(7, 12), id=p_7_12, orient=0, fit=0.97399242061, mean_fit=0.994743512519
+Filled field: pos=(7, 13), id=p_7_13, orient=0, fit=0.975004769192, mean_fit=0.994950209973
+Filled field: pos=(7, 14), id=p_7_14, orient=0, fit=0.976854616786, mean_fit=0.99532746168
+Filled field: pos=(7, 15), id=p_7_15, orient=0, fit=0.971174200386, mean_fit=0.994167192518
+Filled field: pos=(7, 16), id=p_7_16, orient=0, fit=0.978569829058, mean_fit=0.99567674602
+Filled field: pos=(7, 17), id=p_7_17, orient=0, fit=0.980205401741, mean_fit=0.996009356731
+Filled field: pos=(7, 18), id=p_7_18, orient=0, fit=0.977557189232, mean_fit=0.995470592202
+Filled field: pos=(7, 19), id=p_7_19, orient=0, fit=0.973070221527, mean_fit=0.994555071795
+Filled field: pos=(7, 20), id=p_7_20, orient=0, fit=0.970890747826, mean_fit=0.994109153056
+Filled field: pos=(7, 21), id=p_7_21, orient=0, fit=0.965911790793, mean_fit=0.993087449787
+Filled field: pos=(7, 22), id=p_7_22, orient=0, fit=0.96312855605, mean_fit=0.990651872789
